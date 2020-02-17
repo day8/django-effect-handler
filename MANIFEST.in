@@ -1,0 +1,5 @@
+include README.md
+recursive-include effect_handler/static *
+recursive-include effect_handler/templates *
+recursive-include effect_handler/migrations *
+recursive-include effect_handler/management *
